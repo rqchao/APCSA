@@ -1,0 +1,9 @@
+public class Mantra {
+public static void main(String[] args) {
+        line();
+        line();
+}
+public static void line(){
+        System.out.println("There's one thing every coder must understand:\nThe System.out.println command.\n");
+}
+}

@@ -1,0 +1,21 @@
+public class FightSong {
+public static void main(String[] args) {
+        verse1();
+        System.out.print("\n");
+        verse1();
+        verse2();
+        verse1();
+        System.out.print("\n");
+        verse1();
+        verse2();
+        verse1();
+        System.out.print("\n");
+        verse1();
+}
+public static void verse1(){
+        System.out.println("Go, team, go!\nYou can do it.");
+}
+public static void verse2(){
+        System.out.println("You're the best,\nIn the West.");
+}
+}

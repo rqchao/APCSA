@@ -1,0 +1,27 @@
+public class TwoRockets {
+public static void main(String[] args) {
+        v();
+        line();
+        side();
+        side();
+        line();
+        usa();
+        line();
+        side();
+        side();
+        line();
+        v();
+}
+public static void v(){
+        System.out.println("   /\\       /\\\n  /  \\     /  \\\n /    \\   /    \\");
+}
+public static void line(){
+        System.out.println("+------+ +------+");
+}
+public static void side(){
+        System.out.println("|      | |      |");
+}
+public static void usa(){
+        System.out.println("|United| |United|\n|States| |States|");
+}
+}

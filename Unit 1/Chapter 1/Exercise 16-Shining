@@ -1,0 +1,41 @@
+public class Shining {
+public static void main(String[] args) {
+        boy6();
+}
+public static void boy(){
+        System.out.println("All work and no play makes Jack a dull boy");
+}
+public static void boy1(){
+        boy();
+        boy();
+}
+public static void boy2(){
+        boy1();
+        boy1();
+        boy1();
+        boy1();
+        boy1();
+}
+public static void boy3(){
+        boy2();
+        boy2();
+}
+public static void boy4(){
+        boy3();
+        boy3();
+        boy3();
+        boy3();
+        boy3();
+}
+public static void boy5(){
+        boy4();
+        boy4();
+}
+public static void boy6(){
+        boy5();
+        boy5();
+        boy5();
+        boy5();
+        boy5();
+}
+}

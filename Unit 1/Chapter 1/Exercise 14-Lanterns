@@ -1,0 +1,29 @@
+public class Lanterns {
+public static void main(String[] args) {
+        top();
+        System.out.println("");
+        top();
+        mid();
+        longl();
+        top();
+        System.out.println("");
+        top();
+        shortl();
+        mid();
+        mid();
+        shortl();
+        shortl();
+}
+public static void top(){
+        System.out.println("    *****\n  *********\n*************");
+}
+public static void mid(){
+        System.out.println("* | | | | | *");
+}
+public static void longl(){
+        System.out.println("*************");
+}
+public static void shortl(){
+        System.out.println("    *****");
+}
+}

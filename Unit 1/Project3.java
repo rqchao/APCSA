@@ -1,4 +1,4 @@
-public class OldLady {
+public class Project3 {
 public static void main(String[] args) {
         fly();
         dontdie();
@@ -13,7 +13,7 @@ public static void main(String[] args) {
         tragic();
 }
 public static void dontdie(){
-        System.out.println("I don't know why she swallowed that fly,\nPerhaps she’ll die.\n");
+        System.out.println("I don't know why she swallowed that fly,\nPerhaps she’ll die.");
 }
 public static void fly(){
         System.out.println("There was an old lady who swallowed a fly.");
